@@ -26,6 +26,15 @@ See [full report](Quantstamp%20Security%20Assessment%20Certificate%20-%20Liquid%
 
 See [full report](Defimoon%20Smart%20Contract%20Audit%20Report%20-%20SiriusHandler.sol.pdf) for more details.
 
+### 10-2022 PeckShield Smart Contract Audit Report - Algem Adapter
+
+- Total Issues: 4 (4 Resolved)
+- High Risk Issues: 1 (1 Resolved)
+- Medium Risk Issues: 1 (1 Resolved)
+- Low Risk Issues: 2 (2 Resolved)
+
+See [full report](PeckShield%20Smart%20Contract%20Audit%20Report%20-%20Algem%20Adapter.pdf) for more details.
+
 ### 01-2023 Dedaub Smart Contract Security Assessment - Liquid dApp Staking & nASTR Hub
 
 Auditor: [Dedaub](https://dedaub.com/)
