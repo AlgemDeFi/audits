@@ -30,7 +30,7 @@ See [full report](Defimoon%20Smart%20Contract%20Audit%20Report%20-%20SiriusHandl
 
 Auditor: [Dedaub](https://dedaub.com/)
 
-- Total Issues: 10 (10 Resolved)
+- Total Issues: 10 (8 Resolved)
 - High Risk Issues: 1 (1 Resolved)
 - Medium Risk Issues: 1 (1 Resolved)
 - Low Risk Issues: 3 (3 Resolved)
@@ -42,7 +42,7 @@ See [full report](Dedaub%20Smart%20Contract%20Security%20Assessment%20-%20Liquid
 
 Auditor: [Dedaub](https://dedaub.com/)
 
-- Total Issues: 10 (10 Resolved)
+- Total Issues: 16 (15 Resolved)
 - High Risk Issues: 3 (3 Resolved)
 - Medium Risk Issues: 0 (0 Resolved)
 - Low Risk Issues: 3 (3 Resolved)
