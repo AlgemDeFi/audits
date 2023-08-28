@@ -28,6 +28,8 @@ See [full report](Defimoon%20Smart%20Contract%20Audit%20Report%20-%20SiriusHandl
 
 ### 10-2022 PeckShield Smart Contract Audit Report - Algem Adapter
 
+Auditor: [PeckShield](https://peckshield.com/)
+
 - Total Issues: 4 (4 Resolved)
 - High Risk Issues: 1 (1 Resolved)
 - Medium Risk Issues: 1 (1 Resolved)
