@@ -61,6 +61,18 @@ Auditor: [Dedaub](https://dedaub.com/)
 
 See [full report](Dedaub%20Smart%20Contract%20Security%20Assessment%20-%20Lending%20Adapter.pdf) for more details.
 
+### 10-2023 Hashlock Smart Contract Audit Report - Lending Adapter
+
+Auditor: [Hashlock](https://www.hashlock.com.au/)
+
+- Total Issues: 28 (27 Resolved)
+- High Risk Issues: 5 (5 Resolved)
+- Medium Risk Issues: 7 (7 Resolved)
+- Low Risk Issues: 12 (11 Resolved)
+- Gas Optimisations: 3 (3 Resolved)
+
+See [full report](Hashlock%20Smart%20Contract%20Audit%20Report%20-%20Lending%20Adapter.pdf) for more details.
+
 ## Tokenomics Audit
 
 ### 10-2022 Algem Tokenomic Audit by Dr Stylianos Kampakis 
